@@ -8,7 +8,12 @@
 * Semisupervised Learning
 * Reinforement Learning
 
-## Section II:
+## [Chapter II](https://github.com/Wayne-wyyking888/Stat-8931-GenAI/tree/main/chapter2): Large Language Modeling
+* Use Pre-Trained LLMs
+* Decoding from a pre-trained model ()
+* Tokenization and Vocabulary
+* Transformer Sturctures
+
 
 
 ## [Homework](??):
