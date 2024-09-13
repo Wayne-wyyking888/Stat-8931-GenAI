@@ -10,7 +10,7 @@
 
 ## [Chapter II](https://github.com/Wayne-wyyking888/Stat-8931-GenAI/tree/main/chapter2): Large Language Modeling
 * Use Pre-Trained LLMs
-* Decoding from a pre-trained model ()
+* Decoding from a pre-trained model (Greedy decoding; Temperature Scaling; Top k/p sampling; Beam search)
 * Tokenization and Vocabulary
 * Transformer Sturctures
 
